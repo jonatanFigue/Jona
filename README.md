@@ -1,2 +1,1 @@
 # Jona
-Tarea de algorítmica
